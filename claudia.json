@@ -1,0 +1,7 @@
+{
+  "lambda": {
+    "role": "lambda_dynamo",
+    "name": "arrow-write",
+    "region": "us-east-1"
+  }
+}
